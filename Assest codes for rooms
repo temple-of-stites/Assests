@@ -3,10 +3,14 @@
 2.2 boulder
 3.3 spikes
 4.2 Wall_1
-9.2 Wall_2 (Left leaning)
-10.2 Wall_3 (Right Leaning)
+9.2 (or 0.1.9) Wall_2 (Left leaning)
+10.2 (or 0.1.10) Wall_3 (Right Leaning)
 0.1.5 Wall_L
 0.1.6 Wall_R
 0.1.7 Wall_C_1
 0.1.8 Wall_C_2
+0.1.11 Wall_L_2 (Bottom Left-Lean End)
+0.1.12 Wall_L_3 (Bottom Right-Lean End)
+0.1.13 Wall_R_2 (Top Left-Lean End)
+0.1.14 Wall_R_3 (Top Right-Lean End)
 0.5.0.1U3 Entrance Code
