@@ -1,4 +1,5 @@
 0 brick
+0.4 Healing Thing (Was a pentagram in the Japanese version)
 1.2 flowers
 2.2 boulder
 3.3 spikes
@@ -13,7 +14,8 @@
 0.1.12 Wall_L_3 (Bottom Right-Lean End)
 0.1.13 Wall_R_2 (Top Left-Lean End)
 0.1.14 Wall_R_3 (Top Right-Lean End)
-0.1.15 WallURD (Three bracnh connecting up,right,down)
+0.1.15 WallURD (Three branch connecting up,right,down)
 0.1.16 WallS (Striaght)
 0.1.17 WallS_1 (Striaght End)
+0.1.18 WallULD (Three branch connecting up,left,down)
 0.5.0.1U3 Entrance Code
