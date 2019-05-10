@@ -25,4 +25,11 @@
 0.1.23 Wall_C_4 (Opposite of the one above)
 0.1.24 Wall_4 Opposite of Wall_1)
 0.1.25 WallSU (Striaght up wall)
-0.5.0.1U3 Entrance Code
+0.5.1.1D(AnyInt) Down Entrance Code (Brings to Up Exit Code (The number before the letter corresponds with the exit)
+0.5.1.1U(AnyInt) Up Entrance Code (Brings to Down Exit Code)
+0.5.1.1L(AnyInt) Left Entrance Code (Brings to Right Exit Code)
+0.5.1.1R(AnyInt) Right Entrance Code (Brings to Left Exit Code)
+0.5.0.1U(AnyInt) Up Exit Code (Brings to Down Entrance Code)
+0.5.0.1D(AnyInt) Down Exit Code (Brings to Up Entrance Code)
+0.5.0.1L(AnyInt) Left Exit Code (Brings to Right Entrance Code)
+0.5.0.1R(AnyInt) Right Exit Code (Brings to Left Entrance Code)
