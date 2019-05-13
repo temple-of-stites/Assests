@@ -1,3 +1,4 @@
+    
 0 brick
 0.4 Healing Thing (Was a pentagram in the Japanese version)
 1.2 flowers
@@ -25,11 +26,14 @@
 0.1.23 Wall_C_4 (Opposite of the one above)
 0.1.24 Wall_4 Opposite of Wall_1)
 0.1.25 WallSU (Striaght up wall)
-0.5.1.1D(AnyInt) Down Entrance Code (Brings to Up Exit Code (The number before the letter corresponds with the exit)
-0.5.1.1U(AnyInt) Up Entrance Code (Brings to Down Exit Code)
-0.5.1.1L(AnyInt) Left Entrance Code (Brings to Right Exit Code)
-0.5.1.1R(AnyInt) Right Entrance Code (Brings to Left Exit Code)
-0.5.0.1U(AnyInt) Up Exit Code (Brings to Down Entrance Code)
-0.5.0.1D(AnyInt) Down Exit Code (Brings to Up Entrance Code)
-0.5.0.1L(AnyInt) Left Exit Code (Brings to Right Entrance Code)
-0.5.0.1R(AnyInt) Right Exit Code (Brings to Left Entrance Code)
+0.1.26 Pillar
+0.1.27 Hole
+0.1.28 EmptyTile
+0.5.1.1D3 Down Entrance Code (The number before the letter corresponds with the exit)
+0.5.1.1U3 Up Entrance Code (The number after the letter is the size of the entrance/exit in length)
+0.5.1.1L3 Left Entrance Code (The letter changes the way the entrance/exit is facing)
+0.5.1.1R3 Right Entrance Code
+0.5.0.1U3 Up Exit Code
+0.5.0.1D3 Down Exit Code
+0.5.0.1L3 Left Exit Code
+0.5.0.1R3 Right Exit Code
